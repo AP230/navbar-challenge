@@ -1,4 +1,4 @@
-div {
-    background-color: green;
-    opacity: 0.3;
-  }
+body{
+    background: rgb(37,35,35);
+background: linear-gradient(214deg, rgba(37,35,35,1) 0%, rgba(255,255,255,1) 54%, rgba(37,35,35,1) 100%);
+}
